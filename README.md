@@ -5,11 +5,11 @@ This example was used in the Digital Humanities at Oxford Summer School 2023, in
 
 To use it, go to
 
-[https://colab.research.google.com](https://colab.research.google.com)
+https://colab.research.google.com
 
 then click on "Github" and enter the URL to this repository, i.e. 
 
-https://github.com/davidderoure/DHOxSSexample1
+'https://github.com/davidderoure/DHOxSSexample1'
 
 Alternatively this link is available to use with binder:
 
