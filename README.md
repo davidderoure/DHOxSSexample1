@@ -9,7 +9,7 @@ To use it, go to
 
 then click on "Github" and enter the URL to this repository, i.e. 
 
-[https://github.com/davidderoure/DHOxSSexample1](https://github.com/davidderoure/DHOxSSexample1)
+https://github.com/davidderoure/DHOxSSexample1
 
 Alternatively this link is available to use with binder:
 
